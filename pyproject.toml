@@ -8,9 +8,11 @@ dependencies = [
     "ipykernel>=7.2.0",
     "ipython>=9.10.0",
     "langchain-core>=1.2.15",
+    "langchain-ollama>=1.0.1",
     "langchain-openai>=1.1.10",
     "langchain[huggingface]>=1.2.10",
     "langgraph>=1.0.9",
     "langgraph-cli[inmem]>=0.4.12",
     "langsmith>=0.7.6",
+    "pydantic>=2.12.5",
 ]
